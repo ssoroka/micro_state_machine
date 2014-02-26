@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "micro_state_machine"
   gem.homepage = "http://github.com/ssoroka/micro_state_machine"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{A small state machine!}
+  gem.description = %Q{A small state machine! You don't need all that other crap. What's not included here is as important as what's included.}
   gem.email = "ssoroka78@gmail.com"
   gem.authors = ["Steven Soroka"]
   # dependencies defined in Gemfile
