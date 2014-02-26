@@ -1,0 +1,2 @@
+module MicroStateMachine
+end
