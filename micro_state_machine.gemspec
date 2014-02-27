@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Steven Soroka"]
-  s.date = "2014-02-26"
+  s.date = "2014-02-27"
   s.description = "A small state machine! You don't need all that other crap. What's not included here is as important as what's included."
   s.email = "ssoroka78@gmail.com"
   s.extra_rdoc_files = [
@@ -26,6 +26,7 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "lib/micro_state_machine.rb",
+    "micro_state_machine.gemspec",
     "test/helper.rb",
     "test/test_micro_state_machine.rb"
   ]

@@ -1,11 +1,11 @@
 micro\_state\_machine
-===================
+-------------------
 
 [![Build Status](https://travis-ci.org/ssoroka/micro_state_machine.png?branch=master)](https://travis-ci.org/ssoroka/micro_state_machine)
 
 A small state machine! You don't need all that other crap. What's not included here is as important as what's included.
 
-Features Included:
+### Features Included:
 
 - default state
 - customizable state field
@@ -15,13 +15,13 @@ Features Included:
 - exceptions thrown on invalid state transitions
 - super-simple syntax
 
-Features NOT included:
+### Features NOT included:
+
 
 - Transition Guards. (small pull-requests may be accepted).
 - Multiple state machines per object.
 
-Usage Example
--------------
+# Usage Example
 
 Rails Example:
 
@@ -91,4 +91,3 @@ Copyright
 
 Copyright (c) 2014 Steven Soroka. See LICENSE.txt for
 further details.
-
